@@ -54,7 +54,7 @@ project_root/
 Install Python dependencies:
 ```bash
 pip install -r requirements.txt
-
+```
 
 ##  Future Enhancements
 Vector DB Integration (Chroma/Milvus) for large-scale projects
