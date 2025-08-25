@@ -36,7 +36,7 @@ project_root/
 ## 🚀 How It Works
 1. **Start the watcher**:
     ```bash
-    python main.py
+    python watcher.py
     ```
 2. The script detects any file changes.
 3. Changed files are parsed and chunked.
